@@ -1,0 +1,9 @@
+D:\shortest\shortest\bin\Debug\shortest.exe.config
+D:\shortest\shortest\bin\Debug\shortest.exe
+D:\shortest\shortest\bin\Debug\shortest.pdb
+D:\shortest\shortest\obj\Debug\shortest.Form1.resources
+D:\shortest\shortest\obj\Debug\shortest.Properties.Resources.resources
+D:\shortest\shortest\obj\Debug\shortest.csproj.GenerateResource.Cache
+D:\shortest\shortest\obj\Debug\shortest.exe
+D:\shortest\shortest\obj\Debug\shortest.pdb
+D:\shortest\shortest\obj\Debug\shortest.csprojResolveAssemblyReference.cache
